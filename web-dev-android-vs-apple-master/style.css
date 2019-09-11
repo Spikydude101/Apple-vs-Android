@@ -1,0 +1,51 @@
+html{
+    background-color:#cabfb6;
+}
+body {
+    padding:25px 100px;
+    margin:0 auto;
+    width:600px;
+    background-color: white;
+    font-family: 'Proza Libre', sans-serif;
+}
+.explore_link {
+    
+    text-align:center;
+
+}
+a {
+    background-color:#c9793b;
+    padding:10px 30px;
+    text-decoration:none;
+    color:black;
+    border-radius:5px;
+}
+
+.Apple {
+    background-color:#b6bcca;
+    font-size:20px;
+    padding:6px 40px;
+    border-radius:5px;
+
+}
+
+.Android {
+    background-color:#a4c93b;
+    font-size:20px;
+    padding:6px 40px;
+    border-radius:5px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+a:hover {
+    border:2px dashed black;
+    padding:10px 30px;
+    border-radius:5px;
+
+
+}
+
